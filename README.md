@@ -1,6 +1,6 @@
-# Prueba backend Rosendo Yanez – Cloud District 
+# backend Rosendo Yanez – CD
 
-Primero agradecer la oportunidad brindada por ustedes en mi para realizar la prueba, aquí les dejo una especie de tutorial de cómo pueden probar los endpoints
+REST API
 
 ## Antes de utilizar 
 
